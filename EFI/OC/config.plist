@@ -370,6 +370,22 @@
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
+			<dict>
+				<key>BundlePath</key>
+				<string>AGPMInjector.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
 		</array>
 		<key>Block</key>
 		<array>
@@ -756,7 +772,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02031101GUKGQGCB</string>
+			<string>C02041207J9KGQG1F</string>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
@@ -764,9 +780,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02D50QCJWDW</string>
+			<string>C02DJ0PWJWDW</string>
 			<key>SystemUUID</key>
-			<string>FC3BF2AF-27D7-4D34-A28B-0384657A451D</string>
+			<string>36EC7EAC-BDAC-4C3D-A3A1-08144B9E9220</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
