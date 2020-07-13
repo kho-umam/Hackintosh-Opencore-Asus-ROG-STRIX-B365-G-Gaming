@@ -7,7 +7,14 @@
 | CPU         | Intel i7-8700                |
 | DGPU        | MSI RX 570 4G                |
 
-## Works Fine
+## Softwares
+| Software    | Version                      |
+| ----------- | ---------------------------- |
+| Opencore    | Asus ROG STRIX B365-G Gaming |
+| OSX         | Catalina / 10.15.5 (19F2200) |
+| Bios        | 0803                         |
+
+## Working Fine
 - Onboard Audio
 - Onboard Ethernet
 - Hardware Acceleration (H264 & HVEC)
