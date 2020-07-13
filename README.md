@@ -10,7 +10,7 @@
 ## Softwares
 | Software    | Version                      |
 | ----------- | ---------------------------- |
-| Opencore    | Asus ROG STRIX B365-G Gaming |
+| Opencore    | 0.5.9                        |
 | OSX         | Catalina / 10.15.5 (19F2200) |
 | Bios        | 0803                         |
 
